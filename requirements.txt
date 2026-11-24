@@ -1,0 +1,4 @@
+# Week 6 - Python 3.11+
+google-genai
+python-dotenv
+pytest
